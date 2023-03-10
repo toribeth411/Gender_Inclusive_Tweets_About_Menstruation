@@ -16,5 +16,5 @@ File/Directory | Content
 sample_results.json | Example file showing the format of the raw data extracted from the Twitter API
 sample_period_tweets.csv  | Example file showing the format of the csv file that combines all the raw data from the twitter api
 sample_train_clean.csv | Example file showing the format of the cleaned training and testing datasets, as well as the clean full dataset
-Jupyter Notebooks | Folder containing .ipynb files as well as their corresponding .html files that contain all data manipulation and analysis done for this poject
+capstone_jupyter_notebooks | Folder containing .ipynb files that contain all data manipulation and analysis done for this poject
 VStiegman_capstone_poster.pdf | PDF file of Data Science Capstone poster 
