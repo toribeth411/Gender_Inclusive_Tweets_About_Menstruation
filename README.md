@@ -2,7 +2,7 @@
 
 _By: Tori Stiegman_
 
-### Notes
+### Preliminary Notes
 This capstone started as my final project for CS 234: Data, Analytics and Visualization. In the original project, I took a dataset of about 310,000 tweets published between November 10, 2020 and November 10, 2022 and trained a multinomial Naive Bayes classifer to classify them as either gender- inclusive or exclusive, or neither. I expanded this analysis for my data science major capstone project by creating another multinomial Naive Bayes classifier based on more variables, as well as two new classification tree models. I then chose the best classifier by comparing the accuracy, specificity and sensitivity of each of these models. Finally, I used this best classifier to update my original findings and visualizations. 
 
 
